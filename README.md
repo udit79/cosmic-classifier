@@ -2,7 +2,7 @@
 
 Train multiple classifiers on cosmicclassifierTraining.csv with an 80/20 split, TF-IDF text features, and full metrics.
 
-## Run
+## Run.
 # Install
 pip install -r requirements.txt
 
